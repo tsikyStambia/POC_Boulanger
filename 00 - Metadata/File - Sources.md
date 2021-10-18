@@ -24,6 +24,7 @@
         <attribute defType="com.stambia.file.field.size" id="_1oVgISs8Eeyq-96bFbiw2A" value="300"/>
         <attribute defType="com.stambia.file.field.type" id="_1oVgIis8Eeyq-96bFbiw2A" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_1oVgIys8Eeyq-96bFbiw2A" value="F1"/>
+        <attribute defType="com.stambia.file.field.comment" id="_nff7ADAPEeyIJNcqLTVAMw" value="ma description"/>
       </node>
       <node defType="com.stambia.file.field" id="_1oVgJCs8Eeyq-96bFbiw2A" name="DT_COMPTA_K2" position="2">
         <attribute defType="com.stambia.file.field.size" id="_1oVgJSs8Eeyq-96bFbiw2A" value="20"/>
