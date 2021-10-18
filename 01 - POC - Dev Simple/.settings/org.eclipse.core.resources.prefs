@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//Mappings/011\ -\ ODS/Load\ DW123.map=UTF-8
+encoding//Mappings/012\ -\ DWH/Load\ F_VTE_KH.map=UTF-8
+encoding//Mappings/013\ -\ DTM/Load\ A_UNI_VTE_CPT\ (with\ queries).map=UTF-8
+encoding//Processes/Alim\ DWH.proc=UTF-8
+encoding//Processes/Replicate\ HSQL\ to\ Snowflake.proc=UTF-8

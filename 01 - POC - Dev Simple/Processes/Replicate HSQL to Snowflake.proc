@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proc:process xmlns:proc="http://www.example.org/proc" id="46d419f9-0a03-42e9-9c18-fbf0635668f0">
+  <actionProcessRef id="30c47b1e-45e0-4164-8039-285aba491fbc" isBeginAction="false" name="REPLICATOR Rdbms" nbCycles="-1" toleratedError="false" targetName="resource.proc#_zZDewaLZEd6qz86y5ipz-A?fileId=_zZDewaLZEd6qz86y5ipz-A$type=proc$name=REPLICATOR%20Rdbms.tp?">
+    <metaDataLink id="6bc10f9a-f65d-4b4b-9743-be3656920263" name="TARGET" target="resource.md#_xcIXsCs3Eeyq-96bFbiw2A?fileId=_gLc6ECs3Eeyq-96bFbiw2A$type=md$name=POCSTB.ODSV3?"/>
+    <metaDataLink id="1c8495cd-921e-48f0-a102-fba487785622" name="SOURCE" target="resource.md#_3WaBICtgEeyq-96bFbiw2A?fileId=_3Pqf8CtgEeyq-96bFbiw2A$type=md$name=HOTEL_MANAGEMENT?"/>
+    <parameter id="126db2f6-ef21-4998-99a9-3ae0ad4620da" name="createTables" type="Boolean" value="true"/>
+    <parameter id="37828a2a-6378-4f46-b267-bf6e36cdd68b" name="createPk" type="Boolean" value="true"/>
+    <parameter id="05108b76-2f9d-41b4-9b5d-aecc9f820d4d" name="createFk" type="Boolean" value="true"/>
+    <parameter id="021c3562-aa93-4753-a4bb-fdf039df9c0f" name="dropTables" type="Boolean" value="true"/>
+    <parameter id="b38b828d-3f15-4aca-a608-255925a0fdc9" metaInf="&lt;metaInf id=&quot;value&quot; value=&quot;false&quot;/>&#xD;&#xA;&lt;metaInf id=&quot;value&quot; value=&quot;true&quot;/>&#xD;&#xA;&lt;metaInf id=&quot;value&quot; value=&quot;synchronize&quot;/>" name="loadData" type="String" value="true"/>
+  </actionProcessRef>
+  <diagram><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:proc="http://www.example.org/proc" xsi:schemaLocation="http://www.eclipse.org/gmf/runtime/1.0.1/notation http://www.eclipse.org/gmf/runtime/1.0.2/notation#/?fileId=46d419f9-0a03-42e9-9c18-fbf0635668f0?" xmi:id="_GkpF4CthEeyq-96bFbiw2A" type="Proc" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_IHOS8CthEeyq-96bFbiw2A" type="2003">
+    <children xmi:type="notation:Node" xmi:id="_IHPhECthEeyq-96bFbiw2A" type="5003"/>
+    <children xmi:type="notation:Node" xmi:id="_IHPhESthEeyq-96bFbiw2A" type="7003">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_IHPhEithEeyq-96bFbiw2A" collapsed="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_IHPhEythEeyq-96bFbiw2A"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_IHPhFCthEeyq-96bFbiw2A"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_IHPhFSthEeyq-96bFbiw2A" type="7004">
+      <children xmi:type="notation:Node" xmi:id="_MaUf0CthEeyq-96bFbiw2A" type="3004">
+        <element xmi:type="proc:MetaDataLink" href="resource.proc#6bc10f9a-f65d-4b4b-9743-be3656920263?fileId=46d419f9-0a03-42e9-9c18-fbf0635668f0$type=proc?"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MaUf0SthEeyq-96bFbiw2A"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_y-KH4Cv3Eeyq-96bFbiw2A" type="3004">
+        <element xmi:type="proc:MetaDataLink" href="resource.proc#1c8495cd-921e-48f0-a102-fba487785622?fileId=46d419f9-0a03-42e9-9c18-fbf0635668f0$type=proc?"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_y-KH4Sv3Eeyq-96bFbiw2A"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_IHPhFithEeyq-96bFbiw2A"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_IHPhFythEeyq-96bFbiw2A"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_IHPhGCthEeyq-96bFbiw2A"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_IHOS8SthEeyq-96bFbiw2A" fontName="Segoe UI"/>
+    <element xmi:type="proc:ActionProcessRef" href="resource.proc#30c47b1e-45e0-4164-8039-285aba491fbc?fileId=46d419f9-0a03-42e9-9c18-fbf0635668f0$type=proc$name=REPLICATOR%20Rdbms?"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IHOS8ithEeyq-96bFbiw2A" x="280" y="87"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_GkpF4SthEeyq-96bFbiw2A"/>
+  <element xmi:type="proc:ActionProcess" href="resource.proc#46d419f9-0a03-42e9-9c18-fbf0635668f0?fileId=46d419f9-0a03-42e9-9c18-fbf0635668f0$type=proc$name=Replicate%20HSQL%20to%20Snowflake?"/>
+</notation:Diagram>
+]]></diagram>
+</proc:process>

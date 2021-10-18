@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>00 - Metadata</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.indy.gmf.map.diagram.id1</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>indy.build</name>
+			<type>2</type>
+			<locationURI>WORKSPACE_LOC/.indy.build/00%20-%20Metadata</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
