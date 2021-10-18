@@ -21,7 +21,7 @@
       <attribute defType="com.stambia.file.file.typeHelper" id="_u-0Ocis8Eeyq-96bFbiw2A"/>
       <attribute defType="com.stambia.file.file.formatHelper" id="_u-0Ocys8Eeyq-96bFbiw2A"/>
       <node defType="com.stambia.file.field" id="_1oVgICs8Eeyq-96bFbiw2A" name="CD_ENS_K1" position="1">
-        <attribute defType="com.stambia.file.field.size" id="_1oVgISs8Eeyq-96bFbiw2A" value="30"/>
+        <attribute defType="com.stambia.file.field.size" id="_1oVgISs8Eeyq-96bFbiw2A" value="300"/>
         <attribute defType="com.stambia.file.field.type" id="_1oVgIis8Eeyq-96bFbiw2A" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_1oVgIys8Eeyq-96bFbiw2A" value="F1"/>
       </node>
