@@ -32,7 +32,7 @@
             <node defType="com.stambia.json.value" id="_URx9VjGhEeyyNKgWZybZDQ" name="streetAddress" position="5">
               <attribute defType="com.stambia.json.value.type" id="_URx9VzGhEeyyNKgWZybZDQ" value="string"/>
             </node>
-            <node defType="com.stambia.json.value" id="_URx9WDGhEeyyNKgWZybZDQ" name="familyName" position="6">
+            <node defType="com.stambia.json.value" id="_URx9WDGhEeyyNKgWZybZDQ" name="familyName" position="60">
               <attribute defType="com.stambia.json.value.type" id="_URx9WTGhEeyyNKgWZybZDQ" value="string"/>
             </node>
             <node defType="com.stambia.json.value" id="_URx9WjGhEeyyNKgWZybZDQ" name="addressLocality" position="7">
